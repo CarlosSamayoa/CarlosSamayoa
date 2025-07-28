@@ -1,7 +1,7 @@
 
 # Portafolio de Desarrollo de Proyectos
 
-¡Bienvenido a mi portafolio de desarrollo de proyectos! Soy [Tu Nombre], un apasionado desarrollador con experiencia en diversas tecnologías y proyectos. A continuación, encontrarás una breve descripción de algunos de mis proyectos más destacados.
+¡Bienvenido a mi portafolio de desarrollo de proyectos! Soy Carlos Alejandro Samayoa Santos, un apasionado desarrollador con experiencia en diversas tecnologías y proyectos. A continuación, encontrarás una breve descripción de algunos de mis proyectos más destacados.
 
 ## Proyectos Destacados
 
